@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  
+  <title>Dr. Shuo Ding - Bio</title>
 </head>
 <body>
-  
+  <h2>Dr. Shuo Ding</h2>
   <p>
     Hi, I’m <strong>Dr. Shuo Ding</strong>
     (<a href="https://www.linkedin.com/in/dr-shuo-ding-7b12558b/" target="_blank">@shuo-ding</a>). I hold a
@@ -18,12 +18,11 @@
     next-generation mobility technologies.
   </p>
 
-  <h2>Core Expertise</h2>
+  <h3>Core Expertise</h3>
   <ul>
-
-    <li>Cooperative-Intelligent Transport Systems (C-ITS) Technologies: DSRC (IEEE 802.11p/bd, ETSI ITS-G5), 5G C-V2X</li>
+    <li>Cooperative-Intelligent Transport Systems (C-ITS), including DSRC (IEEE 802.11p/bd, ETSI ITS-G5) and 5G C-V2X</li>
     <li>Autonomous Vehicles &amp; Smart Cities</li>
-    <li>IoT, M2M Communications, GNSS, GIS</li>
+    <li>Internet of Things (IoT), M2M Communications, GNSS, GIS</li>
     <li>Cloud Computing, Data Analytics &amp; Visualization</li>
   </ul>
 
@@ -33,13 +32,13 @@
     <strong>TfNSW</strong>.
   </p>
 
-  <h2>Technical Skills</h2>
+  <h3>Technical Skills</h3>
   <ul>
     <li><strong>Embedded Systems:</strong> C/C++ for ARM on Embedded Linux</li>
     <li><strong>Software Development:</strong> ASP.NET MVC/Core (C#), Node.js, Python</li>
   </ul>
 
-  <h2>Contact</h2>
+  <h3>Contact</h3>
   <ul>
     <li>Email: <a href="mailto:Shuo.Ding.Australia@gmail.com">Shuo.Ding.Australia@gmail.com</a></li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/dr-shuo-ding-7b12558b/" target="_blank">linkedin.com/in/dr-shuo-ding-7b12558b</a></li>
