@@ -1,11 +1,48 @@
-- 👋 Hi, I’m Dr Shuo Ding (@shuo-ding). I obtained my Ph. D.  in Wireless Communications from Institute for Telecommunication Research (ITR), University of South Australia (UniSA), Australia. Presently I am the Team Leader of Intelligent Transport System (ITS) in Centre for Technology Infusion (CTI), La Trobe University. I have been successfully leading multiple Technological Innovation and R&D projects in ITS, IoT and Blockchain. 
-- 👀 My expertises: Internet of Things (IoT/WoT), Intelligent Transportation Systems (ITS) and Cloud Applications (Azure), Smart City, BlockChain (Autonomous City), 5G C-V2X ITS, Dedicated Short Range Communications Technology (IEEE DSRC/WAVE), ITS G5 ETSI European Standard, Connected Autonomous Vehicles, GNSS, GIS (Geographic Information System), Machine-To-Machine Communications, Embedded Linux Systems, Data Analysis and Visualization. 
-- 🌱 My skills as a programmer: 
-        C/C++ for ARM Embedded Linux（Advanced);         
-        Full Stack (Advanced) - ASP.NET MVC (C#), ASP.NET Core (C#), jQuery，Bootstrap, JavaScript, MongoDB, SQLServer, SQLite, MySQL, Azure Cloud Architecture;      
-- 📫 You can contact me via Shuo.Ding.Australia@Gmail.com or view my profile and projects on https://www.linkedin.com/in/dr-shuo-ding-7b12558b/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+</head>
+<body>
+  
+  <p>
+    Hi, I’m <strong>Dr. Shuo Ding</strong>
+    (<a href="https://www.linkedin.com/in/dr-shuo-ding-7b12558b/" target="_blank">@shuo-ding</a>). I hold a
+    <strong>Ph.D. in Wireless Communications/Telecommunications</strong> from the
+    <strong>University of South Australia (UniSA)</strong>.
+  </p>
+  <p>
+    I currently serve as the <strong>Team Leader of Intelligent Transport Systems (ITS)</strong> at the
+    <strong>Centre for Technology Infusion (CTI), La Trobe University</strong>, where I lead R&amp;D projects in
+    next-generation mobility technologies.
+  </p>
 
-<!---
-shuo-ding/shuo-ding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <h2>Core Expertise</h2>
+  <ul>
+
+    <li>Cooperative-Intelligent Transport Systems (C-ITS) Technologies: DSRC (IEEE 802.11p/bd, ETSI ITS-G5), 5G C-V2X</li>
+    <li>Autonomous Vehicles &amp; Smart Cities</li>
+    <li>IoT, M2M Communications, GNSS, GIS</li>
+    <li>Cloud Computing, Data Analytics &amp; Visualization</li>
+  </ul>
+
+  <p>
+    I’ve successfully led major innovation projects with leading clients including:
+    <strong>DITRDCA, Lexus, EastLink, Metro Trains Melbourne, Yarra Trams, VicRoads, TMR,</strong> and
+    <strong>TfNSW</strong>.
+  </p>
+
+  <h2>Technical Skills</h2>
+  <ul>
+    <li><strong>Embedded Systems:</strong> C/C++ for ARM on Embedded Linux</li>
+    <li><strong>Software Development:</strong> ASP.NET MVC/Core (C#), Node.js, Python</li>
+  </ul>
+
+  <h2>Contact</h2>
+  <ul>
+    <li>Email: <a href="mailto:Shuo.Ding.Australia@gmail.com">Shuo.Ding.Australia@gmail.com</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/dr-shuo-ding-7b12558b/" target="_blank">linkedin.com/in/dr-shuo-ding-7b12558b</a></li>
+  </ul>
+</body>
+</html>
