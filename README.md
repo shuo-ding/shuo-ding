@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Dr. Shuo Ding - Bio</title>
+  
 </head>
 <body>
-  <h2>Dr. Shuo Ding</h2>
+  
   <p>
     Hi, I’m <strong>Dr. Shuo Ding</strong>
     (<a href="https://www.linkedin.com/in/dr-shuo-ding-7b12558b/" target="_blank">@shuo-ding</a>). I hold a
